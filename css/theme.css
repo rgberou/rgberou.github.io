@@ -1,0 +1,42 @@
+/*aligning center header*/
+#logoheader{ 
+	width:100%;
+	margin:auto;
+	text-align:center;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	
+}
+#brandheader.bg-light {
+    background-color: white !important;
+    padding: 20px;
+}
+
+#navbarNav{
+	padding-left: 30px;
+	letter-spacing: 0.15rem;
+}	
+.header{
+	background-image: url("../img/header.jpg");
+	  /* Full height */
+	width: auto;
+    height: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+    padding-top:10%;
+	
+}
+#Pagebrand{
+	color: white;
+    background-color: black;
+    width: inherit;
+}
+#headtext{
+	background-color: white;
+
+}
+.headerTextContainer {
+    padding-top: 150px;
+}
